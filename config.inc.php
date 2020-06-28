@@ -123,8 +123,8 @@ $CONF['admin_pwd'] = '426580.Qm)';
 // Mail Server
 // Hostname (FQDN) of your mail server.
 // This is used to send email to Postfix in order to create mailboxes.
-$CONF['smtp_server'] = '10.8.207.167';
-$CONF['smtp_port'] = '80';
+$CONF['smtp_server'] = 'ygmail.sinosig.com';
+$CONF['smtp_port'] = '28080';
 
 // SMTP Client
 // Hostname (FQDN) of the server hosting Postfix Admin
