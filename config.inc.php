@@ -118,7 +118,7 @@ $CONF['database_tables'] = array (
 // from Send Email / Broadcast message pages.
 // Leave blank to send email from the logged-in Admin's Email address.
 $CONF['admin_email'] = 'admin@sinosig.com';
-$CONF['admin_pwd'] = '426580.Qm)';
+$CONF['admin_pwd'] = '';
 
 // Mail Server
 // Hostname (FQDN) of your mail server.
